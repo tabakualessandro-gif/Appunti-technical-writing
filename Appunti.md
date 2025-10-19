@@ -4,7 +4,7 @@ Identificazione degli elementi base dei documenti technical writing.
 
  
 
- Client 
+1.  Client 
 
 Il client è il dispositivo o programma che fa una richiesta di un servizio o di dati. 
 In pratica è chi chiede qualcosa. 
@@ -17,7 +17,7 @@ Quando un’app sul tuo telefono (es. Instagram) si collega a Internet per scari
 
  
 
-Server 
+2.  Server 
 
 Il server è il computer o programma che risponde alle richieste del client. 
 È chi fornisce le informazioni o i servizi richiesti. 
